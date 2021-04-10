@@ -36,5 +36,8 @@
 <br />
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=muhammed10100&count_private=true&show_icons=true&include_all_commits=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed10100&theme=dark">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammed10100&count_private=true&show_icons=true&theme=dark&layout=compact">
+</p>
