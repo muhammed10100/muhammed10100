@@ -5,6 +5,8 @@
 
 ### [TR] Programlama Dileri, Araçlar ve Çerçeveler.:
 
+###  QBCore - ESX - VRP Framework Developers.
+
 ### [EN] Languages, Tools and Frameworks. :
 
 <p>
