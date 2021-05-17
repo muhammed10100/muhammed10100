@@ -14,6 +14,12 @@
 
 <h3 align="center">Costom Framework Developers. - ESX - QBCORE - VRP - ALTV - GAME DEVELOPMENTS</h3>
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed10100&label=muhammed10100&color=0e75b6&style=plastic" alt="muhammed10100" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammed10100" alt="muhammed10100" /></a> </p>
+
 <div align="center">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=muhammed10100&column=8&theme=darkhub&no-frame=true"/>
 </div>
