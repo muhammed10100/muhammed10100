@@ -6,11 +6,12 @@
 <h3 align="center">[TR] Profilme hoş geldiniz. Umarım sana yardımcı olacak birkaç şey bulursun.</h3>
 <h3 align="center">[EN] Profilm welcome. I hope you find a few things to help you.</h3>
 
-### [TR] Programlama Dileri, Araçlar ve Çerçeveler.:
 
-###  Costom Framework Developers.
+<h3 align="center">[TR] Programlama Dileri, Araçlar ve Çerçeveler.</h3>
 
-### [EN] Languages, Tools and Frameworks. :
+<h3 align="center">Costom Framework Developers. - ESX - QBCORE - VRP - ALTV - GAME DEVELOPMENTS</h3>
+
+<h3 align="center">[EN] Languages, Tools and Frameworks. :</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammed10100&theme=dark" alt="muhammed10100" /</a></p>
 
