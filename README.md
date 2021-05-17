@@ -14,8 +14,8 @@
 
 <h3 align="center">Costom Framework Developers. - ESX - QBCORE - VRP - ALTV - GAME DEVELOPMENTS</h3>
 
-<div>
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed10100&count_private=true&include_all_commits=true" />
+<div align="center">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=muhammed10100&column=8&theme=darkhub&no-frame=true"/>
 </div>
 
 <p>
