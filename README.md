@@ -16,7 +16,6 @@
 
 
 <p align="center">
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=muhammed10100&column=8&theme=darkhub&no-frame=true"/>
 <a href="/muhammed10100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt="muhammed10100" height="30" width="40" /></a>
 </p>
 
@@ -28,6 +27,8 @@
 <br />
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammed10100&column=8&theme=darkhub&no-frame=true"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed10100&theme=dark">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=muhammed10100&count_private=true&show_icons=true&theme=dark&layout=compact">
