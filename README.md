@@ -9,7 +9,7 @@
 
 ### [EN] Languages, Tools and Frameworks. :
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammed10100/theme=dark" alt="muhammed10100" /</a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammed10100&theme=dark" alt="muhammed10100" /</a></p>
 
 <p>
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
