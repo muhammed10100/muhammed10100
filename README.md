@@ -14,7 +14,10 @@
 
 <h3 align="center">Costom Framework Developers. - ESX - QBCORE - VRP - ALTV - GAME DEVELOPMENTS</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammed10100&no-bg=true" alt="muhammed10100" /</a></p>
+<div align="center">
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=muhammed10100&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed10100&layout=compact" />
+</div>
 
 <p>
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
