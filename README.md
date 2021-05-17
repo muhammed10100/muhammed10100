@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Muhammed Developer</h1>
+<h1 align="center">Muhammed Programmer</h1>
 
 <h3 align="center">[TR] Profilme hoş geldiniz. Umarım sana yardımcı olacak birkaç şey bulursun.</h3>
 <h3 align="center">[EN] Profilm welcome. I hope you find a few things to help you.</h3>
