@@ -18,13 +18,8 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=muhammed10100&column=8&theme=darkhub&no-frame=true"/>
 </div>
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed10100&label=muhammed10100&color=0e75b6&style=plastic" alt="muhammed10100" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammed10100" alt="muhammed10100" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="/muhammed10100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt="muhammed10100" height="30" width="40" /></a>
 </p>
