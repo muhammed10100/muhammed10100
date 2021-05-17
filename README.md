@@ -19,21 +19,15 @@
 </div>
 
 <p>
-<img align="center" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="center" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="center" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> </p>
-    
-<img align="center" alt="Java" width="40px" src="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" />
-    
-<img align="center" alt="Lua" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
-    
-<img align="center" alt="Discord.JS" width="40px" src="https://discord.js.org/static/logo-square.png" />
-
-<img align="center" alt="Shell" width="40px" src="https://cdn.discordapp.com/attachments/616593062130614282/807912423935836200/shell.png" />
-
-<img align="center" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-
-<img align="center" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> </p>
+<img align="left" alt="Java" width="40px" src="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" />
+<img align="left" alt="Lua" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
+<img align="left" alt="Discord.JS" width="40px" src="https://discord.js.org/static/logo-square.png" />
+<img align="left" alt="Shell" width="40px" src="https://cdn.discordapp.com/attachments/616593062130614282/807912423935836200/shell.png" />
+<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </p>
 
 <p>
