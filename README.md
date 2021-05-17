@@ -9,28 +9,28 @@
 
 ### [EN] Languages, Tools and Frameworks. :
 
-<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammed10100" alt="muhammed10100" /</a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammed10100" alt="muhammed10100" /</a></p>
 
 <p>
-<img align="middle" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="middle" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="middle" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> </p>
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> </p>
     
-<img align="middle" alt="Java" width="40px" src="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" />
+<img align="left" alt="Java" width="40px" src="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" />
     
-<img align="middle" alt="Lua" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
+<img align="left" alt="Lua" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
     
-<img align="middle" alt="Discord.JS" width="40px" src="https://discord.js.org/static/logo-square.png" />
+<img align="left" alt="Discord.JS" width="40px" src="https://discord.js.org/static/logo-square.png" />
 
-<img align="middle" alt="Shell" width="40px" src="https://cdn.discordapp.com/attachments/616593062130614282/807912423935836200/shell.png" />
+<img align="left" alt="Shell" width="40px" src="https://cdn.discordapp.com/attachments/616593062130614282/807912423935836200/shell.png" />
 
-<img align="middle" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 
-<img align="middle" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </p>
 
 <p>
-<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  />
+<img align="left" alt="mysql" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  />
 </p>
 
 <br />
