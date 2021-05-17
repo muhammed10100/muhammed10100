@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="muhammed10100" width="128" height="128" src="https://avatars.githubusercontent.com/u/56224780s=400&u=91fe99543119db4b3d8fe835df7b6789732d1340&v=4size=2048"/>
+    <img width="128" height="128" src="https://avatars.githubusercontent.com/u/56224780s=400&u=91fe99543119db4b3d8fe835df7b6789732d1340&v=4size=2048"/>
 </p>
 
 
