@@ -27,9 +27,9 @@
 <br />
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed10100&theme=dark" alt="muhammed10100" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed10100&theme=dark">
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed10100&theme=dark" alt="muhammed10100" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=muhammed10100&count_private=true&show_icons=true&theme=dark&layout=compact">
 </p>
