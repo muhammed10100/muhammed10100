@@ -5,9 +5,7 @@
 
 <h1 align="center">Muhammed Programmer</h1>
 
-<a href="https://discord.com/users/557984729861718026" target="_blank">
-   <img src="https://lanyard-profile-readme.vercel.app/api/557984729861718026?theme=black&bg=1E2D35&animated=true&hideDiscrim=false&borderRadius=25px">
-</a>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/557984729861718026)](https://discord.com/users/557984729861718026)
 
 <h3 align="center">[TR] Profilme hoş geldiniz. Umarım sana yardımcı olacak birkaç şey bulursun.</h3>
 <h3 align="center">[EN] Profilm welcome. I hope you find a few things to help you.</h3>
