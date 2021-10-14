@@ -5,7 +5,8 @@
 
 <h1 align="center">Muhammed Programmer</h1>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/557984729861718026)](https://discord.com/users/557984729861718026)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/557984729861718026?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/557984729861718026)
+
 
 
 <h3 align="center">[TR] Profilme hoş geldiniz. Umarım sana yardımcı olacak birkaç şey bulursun.</h3>
