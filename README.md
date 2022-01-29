@@ -49,5 +49,7 @@
 </a>
 
 <a href="https://github.com/muhammed10100">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed10100&color=1d1f21" alt="muhammed10100" />
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.comuser=muhammed10100&theme=onedark_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%" alt="muhammed10100" />
 </a>
+
+
