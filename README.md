@@ -48,8 +48,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed10100&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/muhammed10100">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.comuser=muhammed10100&theme=onedark_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%" alt="muhammed10100" />
-</a>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammed10100&theme=onedark_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
