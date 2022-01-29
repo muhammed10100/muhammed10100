@@ -41,14 +41,13 @@
 <br />
 
 <a href="https://github.com/muhammed10100">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed10100&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/muhammed10100">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed10100&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="muhammed10100" />
+</a>
+
+<a href="https://github.com/muhammed10100">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed10100&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/muhammed10100">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed10100&theme=dark" alt="muhammed10100" />
 </a>
-
- 
