@@ -50,3 +50,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammed10100&theme=onedark_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/557984729861718026)](https://discord.com/users/557984729861718026)
