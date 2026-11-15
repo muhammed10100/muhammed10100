@@ -15,33 +15,33 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-    <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" alt="Azure" width="48" height="48" /></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" width="48" height="48" /></a>
-    <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" width="48" height="48" /></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS3" width="48" height="48" /></a>
-    <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" alt=".NET" width="48" height="48" /></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" width="48" height="48" /></a>
     <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML5" width="48" height="48" /></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS3" width="48" height="48" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="48" height="48" /></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="48" height="48" /></a>
-    <br />
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" width="48" height="48" /></a>
-    <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js" width="48" height="48" /></a>
-    <a href="https://www.perl.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Perl.svg" alt="Perl" width="48" height="48" /></a>
-    <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="48" height="48" /></a>
-    <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ruby.svg" alt="Ruby" width="48" height="48" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" width="48" height="48" /></a>
-    <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/UnrealEngine.svg" alt="Unreal Engine" width="48" height="48" /></a>
+    <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js" width="48" height="48" /></a>
+    <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="48" height="48" /></a>
+    <a href="https://discord.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="48" height="48" /></a>
+    <a href="https://www.json.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="JSON" width="48" height="48" /></a>
     <a href="https://webpack.js.org" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Webpack-Dark.svg" alt="Webpack" width="48" height="48" /></a>
     <br />
-    <a href="https://discord.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="48" height="48" /></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" width="48" height="48" /></a>
+    <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" width="48" height="48" /></a>
+    <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" alt=".NET" width="48" height="48" /></a>
     <a href="https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="48" height="48" /></a>
     <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" alt="Rust" width="48" height="48" /></a>
-    <a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" width="48" height="48" /></a>
+    <a href="https://www.lua.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="48" height="48" /></a>
     <a href="https://nim-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nim/nim-original.svg" alt="Nim" width="48" height="48" /></a>
     <a href="https://julialang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="Julia" width="48" height="48" /></a>
-    <a href="https://www.json.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="JSON" width="48" height="48" /></a>
-    <a href="https://www.lua.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="48" height="48" /></a>
+    <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ruby.svg" alt="Ruby" width="48" height="48" /></a>
+    <br />
+    <a href="https://www.perl.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Perl.svg" alt="Perl" width="48" height="48" /></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" width="48" height="48" /></a>
+    <a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" width="48" height="48" /></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" width="48" height="48" /></a>
+    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="48" height="48" /></a>
+    <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" alt="Azure" width="48" height="48" /></a>
+    <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/UnrealEngine.svg" alt="Unreal Engine" width="48" height="48" /></a>
 </p>
 
 <br />
