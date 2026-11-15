@@ -58,8 +58,14 @@
     </a>
 </p>
 
+<h3 align="center">💬 Discord | İletişim / Contact</h3>
+
 <p align="center">
     <a href="https://discord.com/users/557984729861718026">
-        <img src="https://img.shields.io/badge/Discord-Profilim%20%7C%20My%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+        <img width="340" src="https://img.shields.io/badge/Discord-Profilim%20%7C%20My%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord - Profilim | My Profile" />
     </a>
+</p>
+
+<p align="center">
+    <sub>Discord üzerinden ulaşın • Connect with me on Discord</sub>
 </p>
