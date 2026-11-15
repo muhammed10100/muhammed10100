@@ -62,12 +62,6 @@
 
 <p align="center">
     <a href="https://discord.com/users/557984729861718026">
-        <img width="96" height="96" src="https://avatars.githubusercontent.com/u/56224780?v=4&s=200" alt="GitHub profil fotoğrafım" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://discord.com/users/557984729861718026">
         <img width="340" src="https://img.shields.io/badge/Discord-Profilim%20%7C%20My%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord - Profilim | My Profile" />
     </a>
 </p>
