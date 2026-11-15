@@ -1,0 +1,22 @@
+name: GitHub-Profile-Summary-Cards
+on:
+  schedule:
+    - cron: "0 0 * * *" # her gün bir kez çalışır
+  workflow_dispatch: # Actions sekmesinden elle de çalıştırılabilir
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write # kartları repoya commit etmek için gerekli
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: ${{ github.ref_name }}
+          TIME_ZONE: "Europe/Istanbul"
+          EXCLUDE: "java,html"
+          THEME: "github_dark"
