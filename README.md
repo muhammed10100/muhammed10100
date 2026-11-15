@@ -65,5 +65,3 @@
     <img width="450" src="./assets/discord-card-final.png" alt="Discord - Profilim | My Profile - İletişime Geç" />
   </a>
 </p>
-
-<p align="center"><sub>Discord üzerinden ulaşın • Connect with me on Discord</sub></p>
