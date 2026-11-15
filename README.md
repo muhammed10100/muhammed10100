@@ -62,7 +62,7 @@
 
 <p align="center">
     <a href="https://discord.com/users/557984729861718026">
-        <img width="340" src="https://img.shields.io/badge/Discord-Profilim%20%7C%20My%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord - Profilim | My Profile" />
+        <img width="600" src="./assets/discord-profile-card.svg" alt="Discord - Profilim | My Profile - İletişime Geç" />
     </a>
 </p>
 
