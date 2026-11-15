@@ -43,6 +43,10 @@ jobs:
           ft=ImageFont.truetype(bold,20)
           bb=d.textbbox((0,0),txt,font=ft)
           d.text((447-(bb[2]-bb[0])/2,190),txt,font=ft,fill='white')
+          # Keep original card size; make only outside rounded corners transparent.
+          alpha=Image.new('L',(W,H),0)
+          ImageDraw.Draw(alpha).rounded_rectangle((0,0,W-1,H-1),radius=28,fill=255)
+          im.putalpha(alpha)
           im.save('assets/discord-card-final.png',optimize=True)
           readme=Path('README.md')
           s=readme.read_text()
