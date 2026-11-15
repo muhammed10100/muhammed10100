@@ -60,11 +60,11 @@
 
 <h3 align="center">💬 Discord | İletişim / Contact</h3>
 
-<p align="center">
-    <a href="https://discord.com/users/557984729861718026">
-        <img width="450" src="./assets/discord-card-personal-v4.svg" alt="Discord - Profilim | My Profile" />
-    </a>
-</p>
+<div align="center">
+<a href="https://discord.com/users/557984729861718026">
+<table align="center"><tr><td bgcolor="#201d3d" width="115" align="center"><img src="./assets/discord-avatar.jpg" width="92" height="92" alt="Discord profil fotoğrafı" /></td><td bgcolor="#201d3d" width="295"><h2>Discord</h2><b>Profilim | My Profile</b><p><img src="https://img.shields.io/badge/İletişime_Geç-Connect-5865F2?style=for-the-badge" alt="İletişime Geç • Connect" /></p></td></tr></table>
+</a>
+</div>
 
 <p align="center">
     <sub>Discord üzerinden ulaşın • Connect with me on Discord</sub>
