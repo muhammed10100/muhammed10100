@@ -62,7 +62,7 @@
 
 <p align="center">
     <a href="https://discord.com/users/557984729861718026">
-        <img width="450" src="./assets/discord-profile-card-v3.svg" alt="Discord - Profilim | My Profile - İletişime Geç" />
+        <img width="450" src="./assets/discord-profile-card-avatar.svg" alt="Discord - Profilim | My Profile - İletişime Geç" />
     </a>
 </p>
 
