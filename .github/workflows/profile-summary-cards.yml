@@ -18,5 +18,4 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: ${{ github.ref_name }}
           TIME_ZONE: "Europe/Istanbul"
-          EXCLUDE: "java,html"
           THEME: "github_dark"
