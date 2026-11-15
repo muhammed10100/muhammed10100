@@ -17,7 +17,8 @@ jobs:
       - name: Render card with original avatar
         run: |
           python - <<'PY'
-          from PIL import Image, ImageDraw, ImageFont
+          from PIL import Image, ImageDraw, ImageFont, ImageFile
+          ImageFile.LOAD_TRUNCATED_IMAGES = True
           from pathlib import Path
           W,H=760,280
           im=Image.new('RGB',(W,H),(19,22,41))
@@ -43,10 +44,26 @@ jobs:
           bb=d.textbbox((0,0),txt,font=ft)
           d.text((447-(bb[2]-bb[0])/2,190),txt,font=ft,fill='white')
           im.save('assets/discord-card-final.png',optimize=True)
+          readme=Path('README.md')
+          s=readme.read_text()
+          a=s.index('<h3 align="center">💬 Discord | İletişim / Contact</h3>')
+          s=s[:a]+'''<h3 align="center">💬 Discord | İletişim / Contact</h3>
+
+<p align="center">
+  <a href="https://discord.com/users/557984729861718026">
+    <img width="450" src="./assets/discord-card-final.png" alt="Discord - Profilim | My Profile - İletişime Geç" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Discord üzerinden ulaşın • Connect with me on Discord</sub>
+</p>
+'''
+          readme.write_text(s)
           PY
       - name: Commit rendered card
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/discord-card-final.png
+          git add assets/discord-card-final.png README.md
           git diff --cached --quiet || (git commit -m "Render sharp Discord card with original avatar" && git push)
