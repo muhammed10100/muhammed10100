@@ -1,0 +1,52 @@
+name: Render Discord profile card
+on:
+  push:
+    paths:
+      - '.github/workflows/render-discord-card.yml'
+      - 'assets/discord-avatar.jpg'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Pillow
+        run: python -m pip install Pillow
+      - name: Render card with original avatar
+        run: |
+          python - <<'PY'
+          from PIL import Image, ImageDraw, ImageFont
+          from pathlib import Path
+          W,H=760,280
+          im=Image.new('RGB',(W,H),(19,22,41))
+          p=im.load()
+          for y in range(H):
+              for x in range(W):
+                  t=(x/W+y/H)/2
+                  p[x,y]=(int(20+14*t),int(23+9*t),int(42+38*t))
+          d=ImageDraw.Draw(im)
+          d.rounded_rectangle((2,2,W-3,H-3),radius=28,outline=(96,104,184),width=3)
+          avatar=Image.open('assets/discord-avatar.jpg').convert('RGB').resize((144,144),Image.Resampling.LANCZOS)
+          mask=Image.new('L',(144,144),0)
+          ImageDraw.Draw(mask).ellipse((0,0,143,143),fill=255)
+          d.ellipse((61,63,215,217),fill=(88,101,242))
+          im.paste(avatar,(66,68),mask)
+          font='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
+          bold='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
+          d.text((255,56),'Discord',font=ImageFont.truetype(bold,46),fill='white')
+          d.text((257,120),'Profilim | My Profile',font=ImageFont.truetype(bold,25),fill=(207,211,255))
+          d.rounded_rectangle((255,174,640,229),radius=12,fill=(88,101,242))
+          txt='İletişime Geç • Connect'
+          ft=ImageFont.truetype(bold,20)
+          bb=d.textbbox((0,0),txt,font=ft)
+          d.text((447-(bb[2]-bb[0])/2,190),txt,font=ft,fill='white')
+          im.save('assets/discord-card-final.png',optimize=True)
+          PY
+      - name: Commit rendered card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/discord-card-final.png
+          git diff --cached --quiet || (git commit -m "Render sharp Discord card with original avatar" && git push)
