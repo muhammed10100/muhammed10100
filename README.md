@@ -36,7 +36,7 @@
     <br />
     <a href="https://discord.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="48" height="48" /></a>
     <a href="https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="48" height="48" /></a>
-    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust-Dark.svg" alt="Rust" width="48" height="48" /></a>
+    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" alt="Rust" width="48" height="48" /></a>
     <a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" width="48" height="48" /></a>
     <a href="https://nim-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nim/nim-original.svg" alt="Nim" width="48" height="48" /></a>
     <a href="https://julialang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="Julia" width="48" height="48" /></a>
