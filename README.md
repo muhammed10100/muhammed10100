@@ -33,6 +33,15 @@
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" width="48" height="48" /></a>
     <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/UnrealEngine.svg" alt="Unreal Engine" width="48" height="48" /></a>
     <a href="https://webpack.js.org" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Webpack-Dark.svg" alt="Webpack" width="48" height="48" /></a>
+    <br />
+    <a href="https://discord.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="48" height="48" /></a>
+    <a href="https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="48" height="48" /></a>
+    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="48" height="48" /></a>
+    <a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" width="48" height="48" /></a>
+    <a href="https://nim-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nim/nim-original.svg" alt="Nim" width="48" height="48" /></a>
+    <a href="https://julialang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="Julia" width="48" height="48" /></a>
+    <a href="https://www.json.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="JSON" width="48" height="48" /></a>
+    <a href="https://www.lua.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="48" height="48" /></a>
 </p>
 
 <br />
