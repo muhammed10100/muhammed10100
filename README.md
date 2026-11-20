@@ -10,7 +10,7 @@
 <h3 align="center">[TR] Programlama Dilleri, Araçlar ve Çerçeveler.</h3>
 <h3 align="center">[EN] Languages, Tools and Frameworks.</h3>
 
-<h3 align="center">Custom Framework Developer: ESX - QBCORE - QBUS - OX - AI-CORE - VRP - ALTV - GAME DEVELOPMENTS</h3>
+<h3 align="center">Custom Framework Developer: ESX - QBCORE - QBUS - OX - AI-CORE - VRP - ALTV - GAME/WEB/WONDWOS APPS DEVELOPMENTS</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 
